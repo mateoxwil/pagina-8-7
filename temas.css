@@ -7,7 +7,7 @@ font-size: 50px;
 
 .Tecnologia {
     width: 1400px;
-    height: 400px;
+    height: 430px;
     background-color: aquamarine;
 }
 
@@ -19,7 +19,7 @@ background-color: cadetblue;
 
 .quimica {
 width: 1400px;
-height: 400px;
+height: 500px;
 background-color: chartreuse;
 }
 
@@ -31,6 +31,6 @@ background-color: rgb(230, 242, 6);
 
 .ingles {
 width: 1400px;
-height: 400px;
+height: 1450px;
 background-color: lightgreen;
 }
