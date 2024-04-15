@@ -1,5 +1,36 @@
-.contenedort{
-    width: 200px;
-    height: 200px;
-    background-color: aqua;
+.contenedor{
+width: 1400px;
+height: 230px;
+background-color: aqua;
+font-size: 50px;
+}
+
+.Tecnologia {
+    width: 1400px;
+    height: 400px;
+    background-color: aquamarine;
+}
+
+.biologia {
+width: 1400px;
+height: 400px;
+background-color: cadetblue;
+}
+
+.quimica {
+width: 1400px;
+height: 400px;
+background-color: chartreuse;
+}
+
+.matematicas {
+width: 1400px;
+height: 730px;
+background-color: rgb(230, 242, 6);
+}
+
+.ingles {
+width: 1400px;
+height: 400px;
+background-color: lightgreen;
 }
