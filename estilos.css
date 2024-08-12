@@ -2,7 +2,7 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 45px;
     padding-top: 140px;
     text-align: justify;
     color: rgb(20, 20, 20);
@@ -13,7 +13,14 @@
 }
 body{
     background-image: url("fnd.jpg");
-    background-repeat: no-repeat;
+    
 
 
+}
+
+.titulo{
+ font-size: 60px;   
+ color: black;
+ text-align: center;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
